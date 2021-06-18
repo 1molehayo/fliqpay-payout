@@ -1,0 +1,50 @@
+$colors: (
+  alabaster: #fcfcfc,
+  ash: #f4f3f8,
+  black: #000,
+  blue: #4305eb,
+  dark: #404040,
+  dark-blue: #372271,
+  dark-grey: #8b8f96,
+  gallery: #ededed,
+  green: #6fae75,
+  grey: #877e9e,
+  light-grey: #e8e8e8,
+  off-white: #f2f2f2,
+  primary: #2c0c6a,
+  red: #f00,
+  white: #fff
+);
+
+$font-weights: (
+  light: 300,
+  regular: 400,
+  semi-bold: 500,
+  bold: 700
+);
+
+$font-sizes: (
+  xx-small: 0.9rem,
+  x-small: 1.2rem,
+  small: 1.4rem,
+  regular: 1.6rem,
+  medium: 1.8rem,
+  large: 2.4rem,
+  m-large: 3rem,
+  x-large: 4rem
+);
+
+$break-points: (
+  // large mobile phones
+  smallest: 480px,
+  // small tabs or phablets
+  small: 600px,
+  // tabs and ipads
+  medium: 768px,
+  // large tabs / large ipads / small laptops
+  large: 990px,
+  // laptops / desktops
+  largest: 1200px
+);
+
+$gradient: linear-gradient(90deg, #4305eb 64.83%, #636166 99.42%);

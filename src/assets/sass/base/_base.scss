@@ -1,0 +1,7 @@
+body {
+  @include font-weight(regular);
+  line-height: normal;
+  letter-spacing: normal;
+  font-family: Sailec, sans-serif;
+  color: color(grey);
+}
